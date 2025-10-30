@@ -1,1 +1,3 @@
-# content-review-hub-40402
+# Project Repository
+
+This is the initial README file for the project.
