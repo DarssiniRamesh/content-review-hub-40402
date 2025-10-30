@@ -1,3 +1,4 @@
+/* Path normalization: Any image/icon references should be assets-relative (figmaimages/<file>); no JS URL changes required */
 (function(){
   'use strict';
 
